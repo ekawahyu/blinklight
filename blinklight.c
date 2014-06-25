@@ -1,4 +1,5 @@
 /*
+ * This is a test.
  * blinklight.c
  *
  *  Created on: Jun 16, 2014
